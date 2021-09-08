@@ -1,0 +1,1 @@
+Longhorn: https://raw.githubusercontent.com/longhorn/longhorn/v1.0.0/deploy/longhorn.yaml
