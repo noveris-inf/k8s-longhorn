@@ -30,7 +30,7 @@ jobs:
 
   #     - name: Lint code.
   #       run: |
-  #         yamllint .
+  #         yamllint -f standard .
 
   Kustomize:
     name: "Kustomize"
