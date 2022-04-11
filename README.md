@@ -1,1 +1,1 @@
-# k8s-longhorn
+# kustomize-longhorn
